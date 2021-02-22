@@ -1,7 +1,4 @@
 def concatenate(*args):
-    concatenated = "-".join(args)
-
-    return concatenated
-    
+    return = "-".join(args)    
 
 print(concatenate("I", "love", "Python", "!"))
