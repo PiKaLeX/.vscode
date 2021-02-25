@@ -1,0 +1,856 @@
+Rank,Release,Genre,Budget,Running Time,Gross,Theaters,Total Gross,Release Date,Distributor,Estimated
+1,Iron Man 3,-,-,-,"$409,013,994","4,253","$409,013,994",May 3,Walt Disney Studios Motion Pictures,false
+2,The Hunger Games: Catching Fire,-,-,-,"$395,526,705","4,163","$424,668,047",Nov 22,Lionsgate,false
+3,Despicable Me 2,-,-,-,"$367,793,270","4,003","$368,065,385",Jul 3,Universal Pictures,false
+4,Man of Steel,-,-,-,"$291,045,518","4,207","$291,045,518",Jun 14,Warner Bros.,false
+5,Monsters University,-,-,-,"$268,492,764","4,004","$268,492,764",Jun 21,Walt Disney Studios Motion Pictures,false
+6,Frozen,-,-,-,"$263,092,648","3,742","$400,738,009",Nov 22,Walt Disney Studios Motion Pictures,false
+7,Gravity,-,-,-,"$254,861,229","3,820","$274,092,705",Oct 4,Warner Bros.,false
+8,Fast & Furious 6,-,-,-,"$238,679,850","3,771","$238,679,850",May 24,Universal Pictures,false
+9,Oz the Great and Powerful,-,-,-,"$234,911,825","3,912","$234,911,825",Mar 8,Walt Disney Studios Motion Pictures,false
+10,Star Trek Into Darkness,-,-,-,"$228,778,661","3,907","$228,778,661",May 16,Paramount Pictures,false
+11,Thor: The Dark World,-,-,-,"$202,651,732","3,841","$206,362,140",Nov 8,Walt Disney Studios Motion Pictures,false
+12,World War Z,-,-,-,"$202,359,711","3,607","$202,359,711",Jun 21,Paramount Pictures,false
+13,The Hobbit: The Desolation of Smaug,-,-,-,"$201,542,078","3,928","$258,366,855",Dec 13,Warner Bros.,false
+14,The Croods,-,-,-,"$187,168,425","4,065","$187,168,425",Mar 22,Twentieth Century Fox,false
+15,The Heat,-,-,-,"$159,582,188","3,184","$159,582,188",Jun 28,Twentieth Century Fox,false
+16,We're the Millers,-,-,-,"$150,394,119","3,445","$150,394,119",Aug 7,Warner Bros.,false
+17,The Great Gatsby,-,-,-,"$144,840,419","3,550","$144,840,419",May 10,Warner Bros.,false
+18,The Conjuring,-,-,-,"$137,400,141","3,115","$137,400,141",Jul 19,Warner Bros.,false
+19,Identity Thief,-,-,-,"$134,506,920","3,230","$134,506,920",Feb 8,Universal Pictures,false
+20,Grown Ups 2,-,-,-,"$133,668,525","3,491","$133,668,525",Jul 12,Sony Pictures Entertainment (SPE),false
+21,The Wolverine,-,-,-,"$132,556,852","3,924","$132,556,852",Jul 26,Twentieth Century Fox,false
+22,G.I. Joe: Retaliation,-,-,-,"$122,523,060","3,734","$122,523,060",Mar 28,Paramount Pictures,false
+23,Now You See Me,-,-,-,"$117,723,989","3,082","$117,723,989",May 31,Lionsgate,false
+24,Cloudy with a Chance of Meatballs 2,-,-,-,"$116,857,454","4,001","$119,793,567",Sep 27,Sony Pictures Entertainment (SPE),false
+25,Lee Daniels' The Butler,-,-,-,"$116,180,128","3,330","$116,632,095",Aug 16,The Weinstein Company,false
+26,The Hangover Part III,-,-,-,"$112,200,072","3,565","$112,200,072",May 23,Warner Bros.,false
+27,Epic,-,-,-,"$107,518,682","3,894","$107,518,682",May 24,Twentieth Century Fox,false
+28,Captain Phillips,-,-,-,"$104,638,057","3,143","$107,100,855",Oct 11,Sony Pictures Entertainment (SPE),false
+29,Silver Linings Playbook,-,-,-,"$103,633,972","2,809","$132,092,958",Nov 16,The Weinstein Company,false
+30,Pacific Rim,-,-,-,"$101,802,906","3,285","$101,802,906",Jul 12,Warner Bros.,false
+31,This Is the End,-,-,-,"$101,470,202","3,055","$101,470,202",Jun 12,Sony Pictures Entertainment (SPE),false
+32,Jackass Presents: Bad Grandpa,-,-,-,"$101,337,759","3,345","$102,003,019",Oct 25,Paramount Pictures,false
+33,Olympus Has Fallen,-,-,-,"$98,925,640","3,106","$98,925,640",Mar 22,FilmDistrict,false
+34,42,-,-,-,"$95,020,213","3,405","$95,020,213",Apr 12,Warner Bros.,false
+35,Zero Dark Thirty,-,-,-,"$94,277,984","2,946","$95,720,716",Dec 19,Sony Pictures Entertainment (SPE),false
+36,Django Unchained,-,-,-,"$94,199,823","3,012","$162,805,434",Dec 25,The Weinstein Company,false
+37,Elysium,-,-,-,"$93,050,117","3,284","$93,050,117",Aug 9,TriStar Pictures,false
+38,Anchorman 2: The Legend Continues,-,-,-,"$90,579,768","3,507","$125,168,368",Dec 18,Paramount Pictures,false
+39,Planes,-,-,-,"$90,288,712","3,716","$90,288,712",Aug 9,Walt Disney Studios Motion Pictures,false
+40,The Lone Ranger,-,-,-,"$89,302,115","3,904","$89,302,115",Jul 3,Walt Disney Studios Motion Pictures,false
+41,Oblivion,-,-,-,"$89,107,235","3,792","$89,107,235",Apr 19,Universal Pictures,false
+42,Insidious: Chapter 2,-,-,-,"$83,586,447","3,155","$83,586,447",Sep 13,FilmDistrict,false
+43,Turbo,-,-,-,"$83,028,128","3,809","$83,028,128",Jul 17,Twentieth Century Fox,false
+44,Les Misérables,-,-,-,"$75,842,530","2,927","$148,809,770",Dec 25,Universal Pictures,false
+45,2 Guns,-,-,-,"$75,612,460","3,028","$75,612,460",Aug 2,Universal Pictures,false
+46,The Hobbit: An Unexpected Journey,-,-,-,"$74,456,964","4,100","$303,003,568",Dec 14,Warner Bros.,false
+47,White House Down,-,-,-,"$73,103,784","3,222","$73,103,784",Jun 28,Sony Pictures Entertainment (SPE),false
+48,Mama,-,-,-,"$71,628,180","2,781","$71,628,180",Jan 18,Universal Pictures,false
+49,Safe Haven,-,-,-,"$71,349,120","3,223","$71,349,120",Feb 14,Relativity Media,false
+50,The Smurfs 2,-,-,-,"$71,017,784","3,867","$71,017,784",Jul 31,Sony Pictures Entertainment (SPE),false
+51,The Best Man Holiday,-,-,-,"$70,313,550","2,041","$70,525,195",Nov 15,Universal Pictures,false
+52,Percy Jackson: Sea of Monsters,-,-,-,"$68,481,744","3,080","$68,559,554",Aug 7,Twentieth Century Fox,false
+53,American Hustle,-,-,-,"$67,518,524","2,629","$150,117,807",Dec 13,Sony Pictures Entertainment (SPE),false
+54,A Good Day to Die Hard,-,-,-,"$67,349,198","3,555","$67,349,198",Feb 14,Twentieth Century Fox,false
+55,Warm Bodies,-,-,-,"$66,380,662","3,009","$66,380,662",Feb 1,Lionsgate,false
+56,Jack the Giant Slayer,-,-,-,"$65,187,603","3,525","$65,187,603",Mar 1,Warner Bros.,false
+57,The Purge,-,-,-,"$64,473,115","2,591","$64,473,115",Jun 7,Universal Pictures,false
+58,Last Vegas,-,-,-,"$62,791,595","3,237","$63,914,167",Nov 1,CBS Films,false
+59,Ender's Game,-,-,-,"$61,283,464","3,407","$61,737,191",Nov 1,Lionsgate,false
+60,Prisoners,-,-,-,"$61,002,302","3,290","$61,002,302",Sep 20,Warner Bros.,false
+61,After Earth,-,-,-,"$60,522,097","3,401","$60,522,097",May 31,Sony Pictures Entertainment (SPE),false
+62,Escape from Planet Earth,-,-,-,"$57,012,977","3,353","$57,012,977",Feb 15,The Weinstein Company,false
+63,Hansel & Gretel: Witch Hunters,-,-,-,"$55,703,475","3,375","$55,703,475",Jan 25,Paramount Pictures,false
+64,Free Birds,-,-,-,"$54,542,536","3,736","$55,750,480",Nov 1,Relativity Media,false
+65,Evil Dead,-,-,-,"$54,239,856","3,025","$54,239,856",Apr 5,TriStar Pictures,false
+66,Red 2,-,-,-,"$53,262,560","3,016","$53,262,560",Jul 19,Lionsgate,false
+67,Temptation: Confessions of a Marriage Counselor,-,-,-,"$51,975,354","2,047","$51,975,354",Mar 29,Lionsgate,false
+68,The Call,-,-,-,"$51,872,378","2,507","$51,872,378",Mar 15,TriStar Pictures,false
+69,Pain & Gain,-,-,-,"$49,875,291","3,303","$49,875,291",Apr 26,Paramount Pictures,false
+70,Lincoln,-,-,-,"$48,018,876","2,293","$182,207,973",Nov 9,Walt Disney Studios Motion Pictures,false
+71,Gangster Squad,-,-,-,"$46,000,903","3,103","$46,000,903",Jan 11,Warner Bros.,false
+72,"Jurassic Park
+2013 Re-release",-,-,-,"$45,385,935","2,778","$45,385,935",Apr 5,Universal Pictures,false
+73,A Madea Christmas,-,-,-,"$45,282,853","2,194","$52,543,354",Dec 13,Lionsgate,false
+74,The Internship,-,-,-,"$44,672,764","3,399","$44,672,764",Jun 7,Twentieth Century Fox,false
+75,Instructions Not Included,-,-,-,"$44,467,206",978,"$44,467,206",Aug 30,Lionsgate,false
+76,Saving Mr. Banks,-,-,-,"$44,087,469","2,671","$83,301,580",Dec 13,Walt Disney Studios Motion Pictures,false
+77,Parental Guidance,-,-,-,"$43,273,946","3,368","$77,267,296",Dec 25,Twentieth Century Fox,false
+78,Snitch,-,-,-,"$42,930,462","2,511","$42,930,462",Feb 22,Lionsgate,false
+79,Riddick,-,-,-,"$42,025,135","3,117","$42,025,135",Sep 6,Universal Pictures,false
+80,The Wolf of Wall Street,-,-,-,"$41,448,935","2,557","$116,900,694",Dec 25,Paramount Pictures,false
+81,A Haunted House,-,-,-,"$40,041,683","2,160","$40,041,683",Jan 11,Open Road Films (II),false
+82,Life of Pi,-,-,-,"$39,347,207","2,946","$124,987,023",Nov 21,Twentieth Century Fox,false
+83,12 Years a Slave,-,-,-,"$37,951,371","1,474","$56,671,993",Oct 18,Fox Searchlight Pictures,false
+84,The Family,-,-,-,"$36,912,954","3,091","$36,918,811",Sep 13,Relativity Media,false
+85,Carrie,-,-,-,"$35,266,619","3,157","$35,266,619",Oct 18,Screen Gems,false
+86,Texas Chainsaw,-,-,-,"$34,341,945","2,659","$34,341,945",Jan 4,Lionsgate,false
+87,R.I.P.D.,-,-,-,"$33,618,855","2,852","$33,618,855",Jul 19,Universal Pictures,false
+88,Blue Jasmine,-,-,-,"$33,021,046","1,283","$33,405,481",Jul 26,Sony Pictures Classics,false
+89,Jack Reacher,-,-,-,"$32,520,094","3,352","$80,070,736",Dec 21,Paramount Pictures,false
+90,Kevin Hart: Let Me Explain,-,-,-,"$32,244,051",892,"$32,244,051",Jul 3,Lionsgate,false
+91,Side Effects,-,-,-,"$32,172,757","2,605","$32,172,757",Feb 8,Open Road Films (II),false
+92,Scary Movie V,-,-,-,"$32,015,787","3,402","$32,015,787",Apr 12,-,false
+93,The Secret Life of Walter Mitty,-,-,-,"$31,484,331","2,922","$58,236,838",Dec 25,Twentieth Century Fox,false
+94,The Mortal Instruments: City of Bones,-,-,-,"$31,165,421","3,118","$31,165,421",Aug 21,Screen Gems,false
+95,Delivery Man,-,-,-,"$29,704,884","3,036","$30,664,106",Nov 22,Walt Disney Studios Motion Pictures,false
+96,One Direction: This Is Us,-,-,-,"$28,873,374","2,735","$28,873,374",Aug 30,TriStar Pictures,false
+97,Kick-Ass 2,-,-,-,"$28,795,985","2,945","$28,795,985",Aug 16,Universal Pictures,false
+98,This Is 40,-,-,-,"$28,592,545","2,931","$67,544,505",Dec 21,Universal Pictures,false
+99,Argo,-,-,-,"$27,304,583","3,247","$136,025,503",Oct 12,Warner Bros.,false
+100,Rush,-,-,-,"$26,947,624","2,308","$26,947,624",Sep 20,Universal Pictures,false
+101,The Host,-,-,-,"$26,627,201","3,202","$26,627,201",Mar 29,Open Road Films (II),false
+102,The World's End,-,-,-,"$26,004,851","1,553","$26,004,851",Aug 23,Focus Features,false
+103,21 & Over,-,-,-,"$25,682,380","2,771","$25,682,380",Mar 1,Relativity Media,false
+104,Escape Plan,-,-,-,"$24,977,645","2,883","$25,135,965",Oct 18,Lionsgate,false
+105,Don Jon,-,-,-,"$24,469,383","2,422","$24,477,704",Sep 27,Relativity Media,false
+106,Walking with Dinosaurs 3D,-,-,-,"$24,345,767","3,243","$36,076,121",Dec 20,Twentieth Century Fox,false
+107,47 Ronin,-,-,-,"$23,852,775","2,690","$38,362,475",Dec 25,Universal Pictures,false
+108,The Incredible Burt Wonderstone,-,-,-,"$22,537,881","3,160","$22,537,881",Mar 15,Warner Bros.,false
+109,The Big Wedding,-,-,-,"$21,819,348","2,633","$21,819,348",Apr 26,Lionsgate,false
+110,Mud,-,-,-,"$21,590,086",960,"$21,590,086",Apr 26,Roadside Attractions,false
+111,Baggage Claim,-,-,-,"$21,569,509","2,230","$21,569,509",Sep 27,Fox Searchlight Pictures,false
+112,The Way Way Back,-,-,-,"$21,506,546","1,001","$21,506,546",Jul 5,Fox Searchlight Pictures,false
+113,The Place Beyond the Pines,-,-,-,"$21,403,519","1,584","$21,403,519",Mar 29,Focus Features,false
+114,Homefront,-,-,-,"$20,122,876","2,570","$20,158,898",Nov 27,Open Road Films (II),false
+115,Broken City,-,-,-,"$19,701,164","2,622","$19,701,164",Jan 18,Twentieth Century Fox,false
+116,Beautiful Creatures,-,-,-,"$19,452,138","2,950","$19,452,138",Feb 14,Warner Bros.,false
+117,Runner Runner,-,-,-,"$19,316,646","3,026","$19,316,646",Oct 4,Twentieth Century Fox,false
+118,You're Next,-,-,-,"$18,494,006","2,437","$18,494,006",Aug 23,Lionsgate,false
+119,The Impossible,-,-,-,"$18,491,079",886,"$19,019,882",Dec 21,Lionsgate,false
+120,Quartet,-,-,-,"$18,390,117",725,"$18,390,117",Jan 11,The Weinstein Company,false
+121,The Book Thief,-,-,-,"$18,214,732","1,316","$21,488,481",Nov 8,Twentieth Century Fox,false
+122,Admission,-,-,-,"$18,007,317","2,161","$18,007,317",Mar 22,Focus Features,false
+123,Parker,-,-,-,"$17,616,641","2,238","$17,616,641",Jan 25,FilmDistrict,false
+124,Enough Said,-,-,-,"$17,464,587",835,"$17,550,872",Sep 18,Fox Searchlight Pictures,false
+125,Dark Skies,-,-,-,"$17,418,667","2,313","$17,418,667",Feb 22,-,false
+126,Philomena,-,-,-,"$17,312,034","1,225","$37,709,979",Nov 22,The Weinstein Company,false
+127,The Counselor,-,-,-,"$16,952,766","3,044","$16,973,715",Oct 25,Twentieth Century Fox,false
+128,Grudge Match,-,-,-,"$16,240,226","2,856","$29,807,260",Dec 25,Warner Bros.,false
+129,Jobs,-,-,-,"$16,131,410","2,381","$16,131,410",Aug 16,Open Road Films (II),false
+130,Fruitvale Station,-,-,-,"$16,101,339","1,086","$16,101,339",Jul 12,The Weinstein Company,false
+131,Dallas Buyers Club,-,-,-,"$15,847,213","1,110","$27,298,285",Nov 1,Focus Features,false
+132,About Time,-,-,-,"$15,322,921","1,280","$15,322,921",Nov 1,Universal Pictures,false
+133,The Last Exorcism Part II,-,-,-,"$15,179,302","2,700","$15,179,302",Mar 1,CBS Films,false
+134,The Guilt Trip,-,-,-,"$14,363,294","2,431","$37,134,215",Dec 19,Paramount Pictures,false
+135,Spring Breakers,-,-,-,"$14,124,284","1,379","$14,124,284",Mar 15,A24,false
+136,"Monsters, Inc.
+2012 3D Release",-,-,-,"$14,029,026","2,618","$34,043,006",Dec 19,Walt Disney Studios Motion Pictures,false
+137,Skyfall,-,-,-,"$13,456,006","3,526","$304,360,277",Nov 9,Sony Pictures Entertainment (SPE),false
+138,Wreck-It Ralph,-,-,-,"$13,432,870","3,752","$189,422,889",Nov 2,Walt Disney Studios Motion Pictures,false
+139,Rise of the Guardians,-,-,-,"$12,075,099","3,672","$103,412,758",Nov 21,DreamWorks,false
+140,The Last Stand,-,-,-,"$12,050,299","2,913","$12,050,299",Jan 18,Lionsgate,false
+141,Out of the Furnace,-,-,-,"$11,140,012","2,101","$11,330,849",Dec 4,Relativity Media,false
+142,Dead Man Down,-,-,-,"$10,895,295","2,188","$10,895,295",Mar 8,FilmDistrict,false
+143,Getaway,-,-,-,"$10,501,938","2,135","$10,501,938",Aug 30,Warner Bros.,false
+144,Bullet to the Head,-,-,-,"$9,489,829","2,404","$9,489,829",Feb 1,Warner Bros.,false
+145,Peeples,-,-,-,"$9,177,065","2,041","$9,177,065",May 10,Lionsgate,false
+146,Battle of the Year,-,-,-,"$8,888,355","2,008","$8,888,355",Sep 20,Screen Gems,false
+147,Movie 43,-,-,-,"$8,840,453","2,023","$8,840,453",Jan 25,Relativity Media,false
+148,Before Midnight,-,-,-,"$8,114,627",897,"$8,114,627",May 24,Sony Pictures Classics,false
+149,Machete Kills,-,-,-,"$8,008,161","2,538","$8,008,161",Oct 11,Open Road Films (II),false
+150,Paranoia,-,-,-,"$7,388,654","2,459","$7,388,654",Aug 16,Relativity Media,false
+151,Promised Land,-,-,-,"$7,371,538","1,676","$7,597,898",Dec 28,Focus Features,false
+152,Dhoom 3,-,-,-,"$7,194,748",239,"$8,031,955",Dec 20,Yash Raj Films,false
+153,Black Nativity,-,-,-,"$7,004,330","1,525","$7,018,189",Nov 27,Fox Searchlight Pictures,false
+154,The Spectacular Now,-,-,-,"$6,854,611",770,"$6,854,611",Aug 2,A24,false
+155,The Grandmaster,-,-,-,"$6,594,959",804,"$6,594,959",Aug 23,The Weinstein Company,false
+156,Amour,-,-,-,"$6,511,320",333,"$6,739,492",Dec 19,Sony Pictures Classics,false
+157,Hubble 3D,-,-,-,"$6,177,621",151,"$52,522,904",Mar 19,Warner Bros.,false
+158,Nebraska,-,-,-,"$6,058,098",968,"$17,654,912",Nov 15,Paramount Pictures,false
+159,All Is Lost,-,-,-,"$5,972,093",483,"$6,263,670",Oct 18,Roadside Attractions,false
+160,The Twilight Saga: Breaking Dawn - Part 2,-,-,-,"$5,901,844","4,070","$292,324,737",Nov 16,Lionsgate,false
+161,The Bling Ring,-,-,-,"$5,845,733",650,"$5,845,732",Jun 14,A24,false
+162,Pulling Strings,-,-,-,"$5,842,961",438,"$5,842,961",Oct 4,Lionsgate,false
+163,Closed Circuit,-,-,-,"$5,750,401",870,"$5,750,401",Aug 28,Focus Features,false
+164,"The Wizard of Oz
+2013 3D/IMAX Release",-,-,-,"$5,633,202",318,"$5,633,202",Sep 20,Warner Bros.,false
+165,Chennai Express,-,-,-,"$5,307,960",196,"$5,307,960",Aug 8,UTV Motion Pictures,false
+166,Mandela: Long Walk to Freedom,-,-,-,"$5,236,120","1,010","$8,323,085",Nov 29,The Weinstein Company,false
+167,Inside Llewyn Davis,-,-,-,"$5,198,928",729,"$13,235,319",Dec 6,CBS Films,false
+168,The Company You Keep,-,-,-,"$5,133,027",807,"$5,133,027",Apr 5,Sony Pictures Classics,false
+169,Justin Bieber's Believe,-,-,-,"$4,881,936","1,037","$6,206,566",Dec 25,Open Road Films (II),false
+170,20 Feet from Stardom,-,-,-,"$4,815,564",147,"$4,946,445",Jun 14,RADiUS-TWC,false
+171,Hyde Park on Hudson,-,-,-,"$4,486,248",246,"$6,376,145",Dec 7,Focus Features,false
+172,Cirque du Soleil: Worlds Away,-,-,-,"$4,422,021",840,"$12,512,862",Dec 21,Paramount Pictures,false
+173,Much Ado About Nothing,-,-,-,"$4,328,849",222,"$4,328,849",Jun 7,Roadside Attractions,false
+174,Frances Ha,-,-,-,"$4,069,826",233,"$4,069,826",May 17,IFC Films,false
+175,Yeh Jawaani Hai Deewani,-,-,-,"$3,827,466",161,"$3,827,466",May 31,Eros International,false
+176,The To Do List,-,-,-,"$3,491,669",591,"$3,491,669",Jul 26,CBS Films,false
+177,Metallica Through the Never,-,-,-,"$3,419,967",589,"$3,419,967",Sep 27,-,false
+178,Emperor,-,-,-,"$3,346,275",311,"$3,346,265",Mar 8,Roadside Attractions,false
+179,Stand Up Guys,-,-,-,"$3,310,031",670,"$3,310,031",Feb 1,Lionsgate,false
+180,The Fifth Estate,-,-,-,"$3,255,008","1,769","$3,255,008",Oct 18,Walt Disney Studios Motion Pictures,false
+181,Love Is All You Need,-,-,-,"$3,180,709",101,"$1,631,709",May 3,Sony Pictures Classics,false
+182,"Top Gun
+2013 3D Release",-,-,-,"$3,018,873",300,"$3,018,873",Feb 8,Paramount Pictures,false
+183,In a World...,-,-,-,"$2,963,902",144,"$2,963,902",Aug 9,Roadside Attractions,false
+184,To the Arctic 3D,-,-,-,"$2,925,326",52,"$14,560,838",Apr 20,Warner Bros.,false
+185,Home Run,-,-,-,"$2,861,020",381,"$2,861,020",Apr 19,The Samuel Goldwyn Company,false
+186,Filly Brown,-,-,-,"$2,850,357",259,"$2,850,357",Apr 19,Lionsgate,false
+187,Hotel Transylvania,-,-,-,"$2,775,193","3,375","$148,313,048",Sep 28,Sony Pictures Entertainment (SPE),false
+188,RamLeela,-,-,-,"$2,738,863",204,"$2,738,863",Nov 15,Eros International,false
+189,Space Station 3D,-,-,-,"$2,616,192",64,"$93,383,953",Apr 19,IMAX,false
+190,Grace Unplugged,-,-,-,"$2,507,201",511,"$2,507,201",Oct 4,Roadside Attractions,false
+191,The Sapphires,-,-,-,"$2,450,867",126,"$2,450,867",Mar 22,The Weinstein Company,false
+192,The Gatekeepers,-,-,-,"$2,415,727",131,"$2,415,727",Feb 1,Sony Pictures Classics,false
+193,I'm in Love with a Church Girl,-,-,-,"$2,387,730",458,"$2,387,730",Oct 18,High Top Releasing,false
+194,No,-,-,-,"$2,343,664",99,"$2,343,664",Feb 15,Sony Pictures Classics,false
+195,Trance,-,-,-,"$2,328,743",443,"$2,328,743",Apr 5,Fox Searchlight Pictures,false
+196,The East,-,-,-,"$2,301,839",195,"$2,301,839",May 31,Fox Searchlight Pictures,false
+197,Renoir,-,-,-,"$2,293,798",86,"$2,293,798",Mar 29,The Samuel Goldwyn Company,false
+198,The Christmas Candle,-,-,-,"$2,252,400",392,"$2,258,620",Nov 15,EchoLight Studios,false
+199,Krrish 3,-,-,-,"$2,191,534",208,"$2,191,534",Nov 1,Eros International,false
+200,Oldboy,-,-,-,"$2,190,524",583,"$2,193,658",Nov 27,FilmDistrict,false
+201,Austenland,-,-,-,"$2,157,308",274,"$2,159,041",Aug 16,Sony Pictures Classics,false
+202,The Oscar Nominated Short Films 2013: Live Action,-,-,-,"$2,142,342",266,"$2,142,342",Feb 1,Shorts International,false
+203,Blackfish,-,-,-,"$2,073,582",99,"$2,073,582",Jul 19,Magnolia Pictures,false
+204,Blue Is the Warmest Colour,-,-,-,"$2,024,063",142,"$2,199,787",Oct 25,IFC Films,false
+205,Anna Karenina,-,-,-,"$1,991,362",422,"$12,816,367",Nov 16,Focus Features,false
+206,The Iceman,-,-,-,"$1,969,193",258,"$1,969,193",May 3,Millennium Entertainment,false
+207,Her,-,-,-,"$1,856,529","1,729","$25,568,251",Dec 18,Warner Bros.,false
+208,Flight,-,-,-,"$1,793,824","2,638","$93,772,375",Nov 2,Paramount Pictures,false
+209,Fill the Void,-,-,-,"$1,775,316",64,"$1,775,316",May 24,Sony Pictures Classics,false
+210,Born to Be Wild,-,-,-,"$1,720,805",208,"$25,978,556",Apr 8,Warner Bros.,false
+211,The Attack,-,-,-,"$1,720,324",55,"$1,720,325",Jun 21,Cohen Media Group,false
+212,Stoker,-,-,-,"$1,714,221",275,"$1,714,221",Mar 1,Fox Searchlight Pictures,false
+213,Unfinished Song,-,-,-,"$1,702,668",91,"$1,702,668",Jun 21,The Weinstein Company,false
+214,Bhaag Milkha Bhaag,-,-,-,"$1,636,731",140,"$1,636,731",Jul 12,Reliance Big Pictures,false
+215,Girl Rising,-,-,-,"$1,620,901",170,"$1,727,259",Mar 7,GathrFilms,false
+216,Stories We Tell,-,-,-,"$1,600,145",70,"$1,600,145",May 10,Roadside Attractions,false
+217,Race 2,-,-,-,"$1,579,940",153,"$1,579,940",Jan 25,UTV Motion Pictures,false
+218,Here Comes the Boom,-,-,-,"$1,575,148","3,014","$45,290,318",Oct 12,Sony Pictures Entertainment (SPE),false
+219,Beasts of the Southern Wild,-,-,-,"$1,546,618",318,"$12,795,746",Jun 27,Fox Searchlight Pictures,false
+220,The Saratov Approach,-,-,-,"$1,539,595",84,"$2,146,999",Oct 9,Purdie Distribution,false
+221,Flying Monsters 3D with David Attenborough,-,-,-,"$1,529,004",27,"$5,705,874",Oct 7,National Geographic Entertainment,false
+222,Kon-Tiki,-,-,-,"$1,517,410",75,"$1,517,410",Apr 26,The Weinstein Company,false
+223,Jerusalem,-,-,-,"$1,488,621",33,"$8,020,721",Sep 13,National Geographic Entertainment,false
+224,Disconnect,-,-,-,"$1,436,900",180,"$1,436,900",Apr 12,LD Entertainment,false
+225,Rust and Bone,-,-,-,"$1,432,528",168,"$2,062,027",Nov 23,Sony Pictures Classics,false
+226,Girl Most Likely,-,-,-,"$1,378,591",351,"$1,378,591",Jul 19,Roadside Attractions,false
+227,I'm So Excited!,-,-,-,"$1,368,119",99,"$1,368,119",Jun 28,Sony Pictures Classics,false
+228,Red Dawn,-,-,-,"$1,338,731","2,781","$44,806,783",Nov 21,FilmDistrict,false
+229,The Ultimate Life,-,-,-,"$1,327,841",412,"$1,327,841",Sep 6,High Top Releasing,false
+230,Wadjda,-,-,-,"$1,325,033",87,"$1,347,747",Sep 13,Sony Pictures Classics,false
+231,The Kings of Summer,-,-,-,"$1,315,590",65,"$1,315,590",May 31,CBS Films,false
+232,Under the Sea 3D,-,-,-,"$1,235,365",108,"$36,262,926",Feb 13,Warner Bros.,false
+233,Inequality for All,-,-,-,"$1,192,007",103,"$1,205,273",Sep 27,RADiUS-TWC,false
+234,The Lords of Salem,-,-,-,"$1,165,882",354,"$1,165,882",Apr 19,Anchor Bay Films,false
+235,Romeo and Juliet,-,-,-,"$1,162,635",461,"$1,162,635",Oct 11,Relativity Media,false
+236,Kai Po Che,-,-,-,"$1,122,527",110,"$1,122,527",Feb 22,UTV Motion Pictures,false
+237,"Bless Me, Ultima",-,-,-,"$1,112,726",263,"$1,561,962",Feb 22,Arenas Entertainment,false
+238,What Maisie Knew,-,-,-,"$1,066,471",122,"$1,066,471",May 3,Millennium Entertainment,false
+239,Thanks for Sharing,-,-,-,"$1,065,881",269,"$1,065,881",Sep 20,Roadside Attractions,false
+240,Phantom,-,-,-,"$1,034,589","1,118","$1,034,589",Mar 1,RCR Distribution,false
+241,Ginger & Rosa,-,-,-,"$1,012,973",99,"$1,012,973",Mar 15,A24,false
+242,Short Term 12,-,-,-,"$1,008,507",75,"$1,013,100",Aug 23,Cinedigm Entertainment Group,false
+243,From Up on Poppy Hill,-,-,-,"$1,002,895",49,"$1,002,895",Mar 15,GKIDS,false
+244,Lore,-,-,-,"$970,325",54,"$970,325",Feb 8,Music Box Films,false
+245,Kill Your Darlings,-,-,-,"$958,681",78,"$1,030,064",Oct 16,Sony Pictures Classics,false
+246,A Royal Affair,-,-,-,"$919,260",56,"$1,546,761",Nov 9,Magnolia Pictures,false
+247,Taken 2,-,-,-,"$917,908","3,706","$139,854,287",Oct 5,Twentieth Century Fox,false
+248,Hitchcock,-,-,-,"$917,470",561,"$6,008,677",Nov 23,Fox Searchlight Pictures,false
+249,Raanjhanaa,-,-,-,"$903,232",102,"$903,232",Jun 21,Eros International,false
+250,Generation Iron,-,-,-,"$849,521",84,"$849,521",Sep 20,The Vladar Company,false
+251,Deep Sea,-,-,-,"$821,144",47,"$46,412,757",Mar 3,Warner Bros.,false
+252,Barbara,-,-,-,"$818,981",23,"$1,013,902",Dec 21,Adopt Films,false
+253,The Great Beauty,-,-,-,"$818,611",77,"$2,852,400",Nov 15,Janus Films,false
+254,Only God Forgives,-,-,-,"$779,188",81,"$779,188",Jul 19,RADiUS-TWC,false
+255,Burn,-,-,-,"$755,965",14,"$996,103",Jul 24,-,false
+256,The Revolution Has Begun,-,-,-,"$738,525",83,"$738,525",Aug 30,UTV Motion Pictures,false
+257,Still Mine,-,-,-,"$729,335",41,"$1,159,336",May 3,The Samuel Goldwyn Company,false
+258,Hannah Arendt,-,-,-,"$717,205",21,"$717,205",May 29,Zeitgeist Films,false
+259,56 Up,-,-,-,"$701,278",33,"$701,278",Jan 4,First Run,false
+260,Searching for Sugar Man,-,-,-,"$687,595",157,"$3,696,196",Jul 27,Sony Pictures Classics,false
+261,Shameless,-,-,-,"$679,866",217,"$679,866",Oct 2,Reliance Big Pictures,false
+262,Muscle Shoals,-,-,-,"$668,134",56,"$696,241",Sep 27,Magnolia Pictures,false
+263,Parkland,-,-,-,"$653,651",257,"$653,651",Oct 4,-,false
+264,On the Road,-,-,-,"$646,835",107,"$744,296",Dec 21,IFC Films,false
+265,The Hunt,-,-,-,"$613,308",47,"$613,308",Jul 12,Magnolia Pictures,false
+266,To the Wonder,-,-,-,"$587,615",60,"$587,615",Apr 12,Magnolia Pictures,false
+267,Salinger,-,-,-,"$583,633",138,"$583,633",Sep 6,The Weinstein Company,false
+268,Lootera,-,-,-,"$581,813",100,"$581,813",Jul 3,Eros International,false
+269,Frankenweenie,-,-,-,"$577,684","3,005","$35,291,068",Oct 5,Walt Disney Studios Motion Pictures,false
+270,Pitch Perfect,-,-,-,"$573,725","2,787","$65,001,093",Sep 28,Universal Pictures,false
+271,Museum Hours,-,-,-,"$549,978",19,"$561,457",Jun 28,The Cinema Guild,false
+272,The Lost Medallion: The Adventures of Billy Stone,-,-,-,"$549,632",68,"$549,632",Mar 1,-,false
+273,Chasing Ice,-,-,-,"$548,403",53,"$1,328,467",Nov 9,Submarine Deluxe,false
+274,The Reluctant Fundamentalist,-,-,-,"$528,731",58,"$552,959",Apr 26,IFC Films,false
+275,Scatter My Ashes at Bergdorf's,-,-,-,"$518,342",38,"$518,342",May 3,Entertainment One,false
+276,The Face Reader,-,-,-,"$515,876",19,"$515,876",Oct 4,Pan Media & Entertainment,false
+277,Not Fade Away,-,-,-,"$498,468",565,"$610,792",Dec 21,Paramount Vantage,false
+278,The Inevitable Defeat of Mister & Pete,-,-,-,"$494,608",147,"$494,608",Oct 11,Lionsgate,false
+279,The Sessions,-,-,-,"$473,141",516,"$6,002,451",Oct 19,Fox Searchlight Pictures,false
+280,The Act of Killing,-,-,-,"$459,293",29,"$486,919",Jul 19,Drafthouse Films,false
+281,New World,-,-,-,"$457,806",24,"$457,806",Mar 22,Well Go USA Entertainment,false
+282,Upstream Color,-,-,-,"$444,098",43,"$444,098",Apr 5,-,false
+283,Sound City,-,-,-,"$422,900",50,"$422,853",Feb 1,Variance Films,false
+284,The Master,-,-,-,"$417,707",864,"$16,377,274",Sep 14,The Weinstein Company,false
+285,The Perks of Being a Wallflower,-,-,-,"$414,891",745,"$17,742,948",Sep 21,Lionsgate,false
+286,A Hijacking,-,-,-,"$414,437",32,"$414,437",Jun 21,Magnolia Pictures,false
+287,Grand Masti,-,-,-,"$413,903",64,"$413,903",Sep 13,Eros International,false
+288,The Torn Poster Let Out a Hero,-,-,-,"$410,526",94,"$410,526",Sep 20,Eros International,false
+289,Ain't Them Bodies Saints,-,-,-,"$391,611",44,"$396,519",Aug 16,IFC Films,false
+290,In the House,-,-,-,"$389,757",36,"$389,757",Apr 19,Cohen Media Group,false
+291,Playing For Keeps,-,-,-,"$385,355","2,840","$13,103,272",Dec 7,FilmDistrict,false
+292,Dirty Wars,-,-,-,"$384,473",31,"$384,473",Jun 7,IFC Films,false
+293,At Any Price,-,-,-,"$380,594",81,"$380,594",Apr 24,Sony Pictures Classics,false
+294,Puella Magi Madoka Magica the Movie Part III: The Rebellion Story,-,-,-,"$371,612",76,"$375,627",Dec 3,Eleven Arts,false
+295,Hava Nagila,-,-,-,"$370,198",24,"$370,218",Mar 1,International Film Circuit,false
+296,Shootout at Wadala,-,-,-,"$369,573",89,"$369,573",May 3,Eros International,false
+297,Lovelace,-,-,-,"$356,582",118,"$356,582",Aug 9,RADiUS-TWC,false
+298,Dabangg 2,-,-,-,"$355,125",166,"$2,519,190",Dec 21,Eros International,false
+299,The Angels' Share,-,-,-,"$346,669",38,"$346,669",Apr 12,IFC Films,false
+300,Drinking Buddies,-,-,-,"$343,341",33,"$343,341",Aug 23,Magnolia Pictures,false
+301,Koch,-,-,-,"$342,941",16,"$342,941",Feb 1,Zeitgeist Films,false
+302,Gori Tere Pyar Mein,-,-,-,"$342,184",112,"$342,184",Nov 22,Reliance Big Pictures,false
+303,Starbuck,-,-,-,"$340,058",32,"$340,058",Mar 22,-,false
+304,Happy People: A Year in the Taiga,-,-,-,"$338,987",23,"$338,987",Jan 25,Music Box Films,false
+305,Diana,-,-,-,"$335,359",100,"$335,359",Nov 1,Entertainment One,false
+306,The Armstrong Lie,-,-,-,"$335,174",77,"$383,294",Nov 8,Sony Pictures Classics,false
+307,Camp,-,-,-,"$324,977",32,"$324,977",Feb 22,Freestyle Releasing,false
+308,Cloud Atlas,-,-,-,"$322,599","2,023","$27,108,272",Oct 26,Warner Bros.,false
+309,Adore,-,-,-,"$318,982",57,"$318,982",Sep 6,-,false
+310,Not Today,-,-,-,"$318,121",41,"$318,121",Apr 12,Freestyle Releasing,false
+311,Linsanity,-,-,-,"$299,408",16,"$302,645",Oct 4,Ketchup Entertainment,false
+312,Go Goa Gone,-,-,-,"$298,457",92,"$298,457",May 10,Eros International,false
+313,Room 237,-,-,-,"$296,359",28,"$296,359",Mar 29,IFC Films,false
+314,West of Memphis,-,-,-,"$288,311",40,"$310,154",Dec 25,Sony Pictures Classics,false
+315,"You Will Be My Son
+2012 Re-release",-,-,-,"$285,151",21,"$285,151",Aug 16,Cohen Media Group,false
+316,Personal Tailor,-,-,-,"$282,357",9,"$375,892",Dec 20,China Lion Film Distribution,false
+317,A Late Quartet,-,-,-,"$281,583",100,"$1,562,548",Nov 2,Entertainment One,false
+318,Blancanieves,-,-,-,"$279,735",27,"$279,735",Mar 29,Cohen Media Group,false
+319,Himmatwala,-,-,-,"$270,880",99,"$270,880",Mar 29,UTV Motion Pictures,false
+320,Meerkats,-,-,-,"$268,610",8,"$777,595",May 26,National Geographic Entertainment,false
+321,Great Expectations,-,-,-,"$258,656",86,"$258,656",Nov 8,Main Street Films,false
+322,August: Osage County,-,-,-,"$254,091","2,411","$37,738,810",Dec 27,The Weinstein Company,false
+323,The Attacks of 26/11,-,-,-,"$248,346",51,"$248,346",Mar 1,Eros International,false
+324,The Summit,-,-,-,"$243,550",70,"$243,550",Oct 4,IFC Films,false
+325,Like Someone in Love,-,-,-,"$239,056",23,"$239,056",Feb 15,IFC Films,false
+326,End of Watch,-,-,-,"$236,637","2,780","$41,003,371",Sep 21,Open Road Films (II),false
+327,When Comedy Went to School,-,-,-,"$232,409",13,"$369,065",Jul 31,International Film Circuit,false
+328,A Place at the Table,-,-,-,"$231,378",35,"$231,378",Mar 1,Magnolia Pictures,false
+329,InAPPropriate Comedy,-,-,-,"$228,004",275,"$228,004",Mar 22,Freestyle Releasing,false
+330,Singh Saab the Great,-,-,-,"$225,668",54,"$225,668",Nov 22,Eros International,false
+331,ABCD (Any Body Can Dance),-,-,-,"$222,098",25,"$222,098",Feb 8,UTV Motion Pictures,false
+332,Haute Cuisine,-,-,-,"$217,883",60,"$217,883",Sep 20,The Weinstein Company,false
+333,Arthur Newman,-,-,-,"$207,853",248,"$207,853",Apr 26,Cinedigm Entertainment Group,false
+334,Prince Avalanche,-,-,-,"$205,139",23,"$205,139",Aug 9,Magnolia Pictures,false
+335,Ghanchakkar,-,-,-,"$203,044",89,"$203,044",Jun 28,UTV Motion Pictures,false
+336,Crystal Fairy & the Magical Cactus,-,-,-,"$202,370",20,"$202,370",Jul 12,IFC Films,false
+337,No Place on Earth,-,-,-,"$200,238",27,"$200,238",Apr 5,Magnolia Pictures,false
+338,Free Angela and All Political Prisoners,-,-,-,"$194,102",16,"$194,102",Apr 5,Codeblack Entertainment,false
+339,Midnight's Children,-,-,-,"$190,022",17,"$190,022",Apr 26,-,false
+340,Killing Them Softly,-,-,-,"$189,426","2,424","$15,026,056",Nov 30,The Weinstein Company,false
+341,Lone Survivor,-,-,-,"$188,328","3,285","$125,095,601",Dec 25,Universal Pictures,false
+342,The Anonymous People,-,-,-,"$187,459",13,"$284,147",Aug 16,-,false
+343,Ice Age: Continental Drift,-,-,-,"$182,244","3,886","$161,321,843",Jul 13,Twentieth Century Fox,false
+344,Populaire,-,-,-,"$179,091",58,"$179,091",Sep 6,The Weinstein Company,false
+345,A.C.O.D.,-,-,-,"$175,705",42,"$175,705",Oct 4,The Film Arcade,false
+346,Afternoon Delight,-,-,-,"$174,496",39,"$174,496",Aug 30,The Film Arcade,false
+347,SOMM,-,-,-,"$174,197",9,"$174,197",Jun 21,The Samuel Goldwyn Company,false
+348,"Cinco de Mayo, La Batalla",-,-,-,"$173,472",43,"$173,472",May 3,Lionsgate,false
+349,Escape from Tomorrow,-,-,-,"$171,962",30,"$171,962",Oct 11,-,false
+350,Copperhead,-,-,-,"$171,740",59,"$171,740",Jun 28,Film Collective,false
+351,Cutie and the Boxer,-,-,-,"$170,449",16,"$200,036",Aug 16,RADiUS-TWC,false
+352,R... Rajkumar,-,-,-,"$166,503",91,"$166,503",Dec 6,Eros International,false
+353,We Steal Secrets,-,-,-,"$166,243",25,"$166,243",May 24,Focus World,false
+354,On the Job,-,-,-,"$164,620",29,"$164,620",Sep 27,Well Go USA Entertainment,false
+355,Mother of George,-,-,-,"$157,937",8,"$157,937",Sep 13,Oscilloscope,false
+356,LUV,-,-,-,"$156,996",45,"$156,996",Jan 18,-,false
+357,Deceptive Practice: The Mysteries and Mentors of Ricky Jay,-,-,-,"$152,791",7,"$152,791",Apr 17,Kino Lorber,false
+358,Snake & Mongoose,-,-,-,"$152,237",14,"$152,200",Aug 9,Rocky Mountain Pictures,false
+359,The Patience Stone,-,-,-,"$148,671",20,"$148,671",Aug 14,Sony Pictures Classics,false
+360,Rangeelay,-,-,-,"$148,418",20,"$148,418",May 17,Eros International,false
+361,Free the Mind,-,-,-,"$147,811",6,"$157,201",May 3,International Film Circuit,false
+362,Narco Cultura,-,-,-,"$145,088",46,"$145,088",Nov 22,Cinedigm Entertainment Group,false
+363,John Dies at the End,-,-,-,"$141,951",19,"$141,951",Jan 25,Magnolia Pictures,false
+364,Galapagos,-,-,-,"$141,270",14,"$18,630,372",Oct 29,IMAX,false
+365,Good Ol' Freda,-,-,-,"$138,811",17,"$138,811",Sep 6,Magnolia Pictures,false
+366,American Promise,-,-,-,"$136,385",8,"$146,702",Oct 18,-,false
+367,Fists of Legend,-,-,-,"$134,213",23,"$134,213",Apr 12,CJ Entertainment,false
+368,Alone Yet Not Alone,-,-,-,"$133,546",103,"$887,851",Sep 27,-,false
+369,Drug War,-,-,-,"$128,195",13,"$128,195",Jul 26,Variance Films,false
+370,The Artist and the Model,-,-,-,"$127,941",11,"$127,958",Aug 2,Cohen Media Group,false
+371,A Band Called Death,-,-,-,"$127,257",16,"$127,257",Jun 28,Drafthouse Films,false
+372,Holy Motors,-,-,-,"$126,501",29,"$641,100",Oct 17,-,false
+373,Europa Report,-,-,-,"$125,687",12,"$125,687",Aug 2,Magnolia Pictures,false
+374,Fukrey,-,-,-,"$125,279",57,"$125,279",Jun 14,Excel Entertainment,false
+375,Is the Man Who Is Tall Happy?,-,-,-,"$125,240",15,"$137,042",Nov 22,IFC Films,false
+376,Beyond the Hills,-,-,-,"$124,919",17,"$124,919",Mar 8,IFC Films,false
+377,Lost and Found in Armenia,-,-,-,"$122,305",9,"$122,305",Jun 7,High Top Releasing,false
+378,The Other Son,-,-,-,"$122,119",53,"$1,285,918",Oct 26,Cohen Media Group,false
+379,Spark: A Burning Man Story,-,-,-,"$120,459",8,"$120,459",Aug 16,-,false
+380,Storm Surfers 3D,-,-,-,"$117,090",7,"$117,090",Apr 26,XLrator Media,false
+381,Yossi,-,-,-,"$117,047",8,"$117,047",Jan 25,Strand Releasing,false
+382,Ain't in It for My Health: A Film About Levon Helm,-,-,-,"$113,966",10,"$113,966",Apr 19,Kino Lorber,false
+383,Spinning Plates,-,-,-,"$112,449",6,"$112,449",Oct 25,The Film Arcade,false
+384,Ek Thi Daayan,-,-,-,"$112,135",47,"$112,135",Apr 19,Eros International,false
+385,The Punk Singer,-,-,-,"$109,402",24,"$122,742",Nov 29,IFC Films,false
+386,Augustine,-,-,-,"$107,352",10,"$107,352",May 17,Music Box Films,false
+387,Big Star: Nothing Can Hurt Me,-,-,-,"$105,998",9,"$105,998",Jul 3,Magnolia Pictures,false
+388,Upside Down,-,-,-,"$105,095",39,"$105,095",Mar 15,Millennium Entertainment,false
+389,The English Teacher,-,-,-,"$104,810",7,"$104,810",May 17,Cinedigm Entertainment Group,false
+390,Gimme the Loot,-,-,-,"$104,442",10,"$104,442",Mar 22,IFC Films,false
+391,A Touch of Sin,-,-,-,"$103,927",7,"$154,120",Oct 4,Kino Lorber,false
+392,The Investigator,-,-,-,"$103,739",11,"$103,739",Sep 13,Gabriel's Messenger Films,false
+393,Stevie Nicks: In Your Dreams,-,-,-,"$103,028",76,"$103,028",Mar 31,Abramorama,false
+394,Thérèse,-,-,-,"$101,944",8,"$101,944",Aug 23,MPI Media Group,false
+395,Computer Chess,-,-,-,"$101,718",9,"$102,041",Jul 17,Kino Lorber,false
+396,Capital,-,-,-,"$101,700",34,"$101,700",Oct 25,Cohen Media Group,false
+397,The Past,-,-,-,"$101,179",77,"$1,331,747",Dec 20,Sony Pictures Classics,false
+398,Una noche,-,-,-,"$100,887",6,"$100,887",Aug 23,IFC Films,false
+399,Shadow Dancer,-,-,-,"$100,616",14,"$100,616",May 31,Magnolia Pictures,false
+400,The United States of Autism,-,-,-,"$100,403",12,"$100,403",Apr 5,Janson Media,false
+401,One Track Heart: The Story of Krishna Das,-,-,-,"$100,401",5,"$100,401",May 8,Zeitgeist Films,false
+402,The Broken Circle Breakdown,-,-,-,"$100,394",21,"$175,058",Nov 1,Tribeca Film,false
+403,"The Silence
+2012 Re-release",-,-,-,"$100,214",11,"$100,214",Mar 8,Music Box Films,false
+404,Man of Tai Chi,-,-,-,"$100,144",110,"$100,144",Nov 1,RADiUS-TWC,false
+405,Blue Caprice,-,-,-,"$93,995",36,"$93,995",Sep 13,IFC Films,false
+406,Passion,-,-,-,"$92,181",14,"$92,181",Aug 30,Entertainment One,false
+407,Any Day Now,-,-,-,"$90,922",19,"$201,395",Dec 14,Music Box Films,false
+408,King's Faith,-,-,-,"$90,106",14,"$90,106",Apr 26,-,false
+409,Somebody Up There Likes Me,-,-,-,"$89,435",3,"$89,435",Mar 8,Tribeca Film,false
+410,Byzantium,-,-,-,"$89,237",13,"$89,237",Jun 28,IFC Films,false
+411,"Finding Nemo
+2012 3D Release",-,-,-,"$87,974","2,904","$41,128,283",Sep 14,Walt Disney Studios Motion Pictures,false
+412,Settai,-,-,-,"$87,838",33,"$87,838",Apr 5,UTV Motion Pictures,false
+413,Young Detective Dee: Rise of the Sea Dragon,-,-,-,"$87,783",35,"$87,783",Sep 27,-,false
+414,The Rooftop,-,-,-,"$85,755",17,"$85,755",Jul 19,Well Go USA Entertainment,false
+415,Something in the Air,-,-,-,"$85,154",10,"$85,154",May 3,IFC Films,false
+416,We Are What We Are,-,-,-,"$81,381",17,"$81,381",Sep 27,Entertainment One,false
+417,Stuck in Love.,-,-,-,"$81,071",21,"$81,071",Jul 5,Millennium Entertainment,false
+418,Winnie Mandela,-,-,-,"$80,634",32,"$80,634",Sep 6,Image Entertainment,false
+419,Ramaiya Vastavaiya,-,-,-,"$80,108",67,"$80,108",Jul 19,-,false
+420,The Central Park Five,-,-,-,"$79,699",22,"$325,653",Nov 23,IFC Films,false
+421,Money for Nothing: Inside the Federal Reserve,-,-,-,"$77,619",5,"$88,045",Sep 6,-,false
+422,Caesar Must Die,-,-,-,"$76,908",4,"$76,908",Feb 1,Adopt Films,false
+423,Commitment,-,-,-,"$76,543",22,"$76,543",Dec 6,Well Go USA Entertainment,false
+424,Leviathan,-,-,-,"$76,202",5,"$76,202",Mar 1,The Cinema Guild,false
+425,More Than Honey,-,-,-,"$76,005",7,"$79,772",Jun 12,Kino Lorber,false
+426,No One Lives,-,-,-,"$74,918",53,"$74,918",May 10,Anchor Bay Films,false
+427,Bettie Page Reveals All,-,-,-,"$72,962",21,"$108,118",Nov 22,Music Box Films,false
+428,Reality,-,-,-,"$72,577",12,"$72,577",Mar 15,Oscilloscope,false
+429,After Tiller,-,-,-,"$72,125",6,"$72,125",Sep 20,Oscilloscope,false
+430,An Oversimplification of Her Beauty,-,-,-,"$71,409",4,"$71,906",Apr 26,Variance Films,false
+431,Seasons of Gray,-,-,-,"$70,605",24,"$70,605",Oct 18,EchoLight Studios,false
+432,War Witch,-,-,-,"$70,544",16,"$70,544",Mar 1,Tribeca Film,false
+433,The Waiting Room,-,-,-,"$69,188",8,"$244,951",Sep 26,International Film Circuit,false
+434,The Invisible Woman,-,-,-,"$67,951",153,"$1,234,254",Dec 25,Sony Pictures Classics,false
+435,Pandora's Promise,-,-,-,"$66,680",16,"$66,680",Jun 12,Abramorama,false
+436,Fei chang xing yun,-,-,-,"$64,432",23,"$64,432",Sep 20,China Lion Film Distribution,false
+437,Diana Vreeland: The Eye Has to Travel,-,-,-,"$64,181",27,"$1,017,579",Sep 21,The Samuel Goldwyn Company,false
+438,Beware of Mr. Baker,-,-,-,"$63,914",15,"$116,476",Nov 28,-,false
+439,Becoming Traviata,-,-,-,"$62,652",7,"$62,652",May 15,Distrib Films,false
+440,Sightseers,-,-,-,"$61,782",10,"$61,782",May 10,IFC Films,false
+441,Go for Sisters,-,-,-,"$61,105",12,"$70,495",Nov 8,Variance Films,false
+442,I Am Divine,-,-,-,"$61,057",10,"$81,497",Oct 11,The Film Collaborative,false
+443,Let the Fire Burn,-,-,-,"$61,038",9,"$64,489",Oct 2,Zeitgeist Films,false
+444,Independent Lens: Don't Stop Believin': Everyman's Journey,-,-,-,"$61,018",23,"$61,018",Mar 8,Cinedigm Entertainment Group,false
+445,Journey to the South Pacific,-,-,-,"$60,820",19,"$7,653,913",Nov 27,IMAX,false
+446,It's a Disaster,-,-,-,"$60,818",13,"$60,818",Apr 12,Oscilloscope,false
+447,How I Live Now,-,-,-,"$60,213",68,"$60,213",Nov 8,Magnolia Pictures,false
+448,"The Wicker Man
+2013 Re-release",-,-,-,"$59,225",14,"$60,891",Sep 27,Rialto Pictures,false
+449,The Pervert's Guide to Ideology,-,-,-,"$59,039",4,"$67,966",Nov 1,Zeitgeist Films,false
+450,Aftershock,-,-,-,"$58,510",110,"$58,510",May 10,RADiUS-TWC,false
+451,The Trials of Muhammad Ali,-,-,-,"$58,480",10,"$59,081",Aug 23,Kino Lorber,false
+452,Chasing Mavericks,-,-,-,"$57,886","2,030","$6,002,756",Oct 26,Twentieth Century Fox,false
+453,Lost in Thailand,-,-,-,"$57,387",35,"$57,387",Feb 8,-,false
+454,The Canyons,-,-,-,"$56,825",9,"$56,825",Aug 2,IFC Films,false
+455,Sister,-,-,-,"$56,169",14,"$154,659",Oct 5,Adopt Films,false
+456,Terms and Conditions May Apply,-,-,-,"$55,824",6,"$55,824",Jul 12,Variance Films,false
+457,Bajatey Raho,-,-,-,"$55,397",44,"$55,397",Jul 26,Eros International,false
+458,C.O.G.,-,-,-,"$55,301",20,"$55,301",Sep 20,Screen Media Films,false
+459,Final: The Rapture,-,-,-,"$54,482",4,"$124,561",Sep 13,-,false
+460,Line of Duty,-,-,-,"$54,204",15,"$54,204",Sep 6,-,false
+461,Samsara,-,-,-,"$53,685",70,"$2,672,413",Aug 24,Oscilloscope,false
+462,"Leonie
+2013 Re-release",-,-,-,"$53,580",11,"$53,692",Mar 15,Monterey Media,false
+463,The Square,-,-,-,"$52,954",9,"$124,244",Oct 25,Noujaim Films,false
+464,The Intouchables,-,-,-,"$52,950",194,"$10,198,820",May 25,The Weinstein Company,false
+465,Venus and Serena,-,-,-,"$51,271",8,"$51,271",May 10,Magnolia Pictures,false
+466,God Loves Uganda,-,-,-,"$50,672",5,"$51,229",Oct 11,Variance Films,false
+467,Puella Magi Madoka Magica the Movie Part 1: Beginnings,-,-,-,"$50,636",5,"$180,440",Oct 19,Eleven Arts,false
+468,Mademoiselle C,-,-,-,"$48,668",7,"$48,668",Sep 11,Cohen Media Group,false
+469,A Cop,-,-,-,"$48,040",1,"$48,040",Apr 19,Rialto Pictures,false
+470,GMO OMG,-,-,-,"$47,588",9,"$47,558",Sep 13,Submarine Deluxe,false
+471,Table No. 21,-,-,-,"$46,720",23,"$46,720",Jan 4,Eros International,false
+472,Jewtopia,-,-,-,"$46,437",16,"$46,437",Sep 20,Le Petit Canyon,false
+473,"Wish You Were Here
+2013 Re-release",-,-,-,"$46,347",11,"$46,347",Jun 7,Entertainment One,false
+474,Wrong,-,-,-,"$46,021",20,"$46,021",Mar 29,Drafthouse Films,false
+475,The Lovely Month of May,-,-,-,"$45,743",3,"$55,038",Sep 13,Icarus Films,false
+476,Reaching for the Moon,-,-,-,"$45,502",4,"$45,502",Nov 8,Wolfe Releasing,false
+477,A Glimpse Inside the Mind of Charles Swan III,-,-,-,"$45,350",18,"$45,350",Feb 8,A24,false
+478,American Made Movie,-,-,-,"$45,175",6,"$45,175",Aug 30,Variance Films,false
+479,Greedy Lying Bastards,-,-,-,"$45,000",50,"$45,000",Mar 8,-,false
+480,My Brother the Devil,-,-,-,"$44,906",4,"$44,906",Mar 22,-,false
+481,Tiny Times 2.0,-,-,-,"$43,788",6,"$43,788",Aug 16,China Lion Film Distribution,false
+482,Andre Gregory: Before and After Dinner,-,-,-,"$42,892",3,"$42,892",Apr 3,The Cinema Guild,false
+483,Concussion,-,-,-,"$42,606",25,"$42,606",Oct 4,RADiUS-TWC,false
+484,Zaytoun,-,-,-,"$42,330",9,"$42,330",Sep 20,Strand Releasing,false
+485,The We and the I,-,-,-,"$42,172",7,"$42,172",Mar 8,-,false
+486,Holla II,-,-,-,"$41,537",6,"$41,537",Apr 19,Rockstone Releasing,false
+487,Bill W.,-,-,-,"$41,072",31,"$809,590",May 18,Page 124 Productions,false
+488,Language of a Broken Heart,-,-,-,"$40,645",5,"$40,645",Mar 8,House Lights Media,false
+489,CBGB,-,-,-,"$40,368",100,"$40,400",Oct 4,XLrator Media,false
+490,Escape Fire: The Fight to Rescue American Healthcare,-,-,-,"$40,070",12,"$126,238",Oct 5,Roadside Attractions,false
+491,Killing Season,-,-,-,"$39,881",12,"$39,881",Jul 12,Millennium Entertainment,false
+492,The Short Game,-,-,-,"$39,819",20,"$39,819",Sep 20,The Samuel Goldwyn Company,false
+493,Faust,-,-,-,"$39,585",6,"$58,132",Nov 15,Leisure Time Features,false
+494,How to Make Money Selling Drugs,-,-,-,"$39,192",5,"$39,192",Jun 26,Tribeca Film,false
+495,Post Tenebras Lux,-,-,-,"$39,185",6,"$39,185",May 1,Strand Releasing,false
+496,Harvest of Empire,-,-,-,"$39,033",2,"$79,627",Sep 28,Onyx Films,false
+497,Herb & Dorothy 50X50,-,-,-,"$38,933",8,"$38,933",Sep 13,Fine Line Media,false
+498,The Wall,-,-,-,"$38,674",4,"$38,674",May 31,Music Box Films,false
+499,The Odd Life of Timothy Green,-,-,-,"$38,505","2,717","$51,854,875",Aug 15,Walt Disney Studios Motion Pictures,false
+500,Berberian Sound Studio,-,-,-,"$38,493",11,"$38,493",Jun 14,IFC Films,false
+501,Rising from Ashes,-,-,-,"$38,492",5,"$38,602",Aug 2,First Run,false
+502,"Russian Ark
+2013 Re-release",-,-,-,"$37,984",2,"$37,984",Sep 6,Kino Lorber,false
+503,Ip Man: The Final Fight,-,-,-,"$37,884",14,"$37,884",Sep 20,Well Go USA Entertainment,false
+504,Mumia - Long Distance Revolutionary,-,-,-,"$37,731",4,"$37,731",Feb 1,First Run,false
+505,Big Sur,-,-,-,"$37,263",13,"$37,466",Nov 1,Ketchup Entertainment,false
+506,Savannah,-,-,-,"$37,240",14,"$37,240",Aug 23,Ketchup Entertainment,false
+507,Redemption,-,-,-,"$36,895",19,"$36,895",Jun 28,Roadside Attractions,false
+508,Going Attractions: The Definitive Story of the American Drive-in Movie,-,-,-,"$36,793",4,"$52,458",Jun 7,-,false
+509,The Servant,-,-,-,"$36,463",2,"$36,463",Jul 26,Rialto Pictures,false
+510,Touchy Feely,-,-,-,"$36,128",5,"$36,128",Sep 6,Magnolia Pictures,false
+511,Far Out Isn't Far Enough: The Tomi Ungerer Story,-,-,-,"$35,647",5,"$35,647",Jun 14,First Run,false
+512,"M
+2013 Re-release",-,-,-,"$35,566",3,"$35,566",Mar 15,Kino Lorber,false
+513,Underdogs,-,-,-,"$35,271",4,"$35,271",Aug 16,Freestyle Releasing,false
+514,Tai Chi 2: The Hero Rises,-,-,-,"$35,067",7,"$35,067",Apr 26,Well Go USA Entertainment,false
+515,The Girl,-,-,-,"$35,048",7,"$35,048",Mar 8,Brainstorm Media,false
+516,I Give It a Year,-,-,-,"$34,657",6,"$34,657",Aug 9,Magnolia Pictures,false
+517,5 Broken Cameras,-,-,-,"$34,436",9,"$109,983",May 30,Kino Lorber,false
+518,Paranormal Activity 4,-,-,-,"$34,341","3,412","$53,885,000",Oct 19,Paramount Pictures,false
+519,"Contempt
+2013 Re-release",-,-,-,"$34,186",2,"$43,763",Sep 6,Rialto Pictures,false
+520,Bert Stern: Original Mad Man,-,-,-,"$34,005",6,"$34,005",Apr 5,First Run,false
+521,Running from Crazy,-,-,-,"$33,880",5,"$33,300",Nov 1,Vitagraph Films,false
+522,Dislecksia: The Movie,-,-,-,"$33,066",1,"$33,066",Oct 4,Area 23a,false
+523,Maniac,-,-,-,"$31,081",10,"$31,081",Jun 21,IFC Films,false
+524,Somewhere Between,-,-,-,"$30,718",6,"$210,975",Aug 24,Long Shot Factory,false
+525,These Birds Walk,-,-,-,"$30,408",2,"$30,408",Nov 1,Oscilloscope,false
+526,The House I Live In,-,-,-,"$30,193",12,"$210,752",Oct 5,Abramorama,false
+527,Gregory Crewdson: Brief Encounters,-,-,-,"$30,055",3,"$60,064",Nov 2,Zeitgeist Films,false
+528,"Long Shot: The Kevin Laue Story
+2013 Re-release",-,-,-,"$29,863",3,"$29,863",Oct 25,Cinipix,false
+529,A Fierce Green Fire: The Battle for A Living Planet,-,-,-,"$29,817",11,"$29,817",Feb 22,First Run,false
+530,Dead Man's Burden,-,-,-,"$29,634",3,"$29,634",May 3,Cinedigm Entertainment Group,false
+531,Struck by Lightning,-,-,-,"$28,378",4,"$28,378",Jan 11,Tribeca Film,false
+532,Camille Claudel 1915,-,-,-,"$28,355",4,"$35,296",Oct 16,Kino Lorber,false
+533,Simon Killer,-,-,-,"$27,740",5,"$27,740",Apr 5,IFC Films,false
+534,"Bad Blood
+2013 Re-release",-,-,-,"$27,701",2,"$35,176",Nov 29,Carlotta Films,false
+535,Broadway Idiot,-,-,-,"$27,595",6,"$27,595",Oct 11,FilmBuff,false
+536,Tiger Eyes,-,-,-,"$27,160",17,"$27,160",Jun 7,Freestyle Releasing,false
+537,Out in the Dark,-,-,-,"$26,966",6,"$26,966",Sep 27,Breaking Glass Pictures,false
+538,The Sweeney,-,-,-,"$26,650",11,"$26,650",Mar 1,Entertainment One,false
+539,At Berkeley,-,-,-,"$26,482",6,"$31,736",Nov 8,Zipporah Films,false
+540,"Little Fugitive
+2013 Re-release",-,-,-,"$26,122",2,"$29,505",Feb 1,-,false
+541,Robot & Frank,-,-,-,"$26,069",209,"$3,325,038",Aug 17,The Samuel Goldwyn Company,false
+542,Sinister,-,-,-,"$25,347","2,542","$48,086,903",Oct 12,Lionsgate,false
+543,Sweet Dreams,-,-,-,"$25,243",7,"$59,403",Nov 1,International Film Circuit,false
+544,The Power of Few,-,-,-,"$25,000",5,"$25,000",Feb 15,Steelyard Pictures,false
+545,Graceland,-,-,-,"$24,529",18,"$24,529",Apr 26,Drafthouse Films,false
+546,Bastards,-,-,-,"$24,525",2,"$24,525",Oct 23,IFC Films,false
+547,Le Petit Soldat,-,-,-,"$24,299",1,"$24,296",Mar 8,Rialto Pictures,false
+548,The Citizen,-,-,-,"$24,296",6,"$24,296",Sep 6,Monterey Media,false
+549,Paradise: Love,-,-,-,"$24,267",4,"$24,267",Apr 26,Strand Releasing,false
+550,Brooklyn Castle,-,-,-,"$24,201",13,"$219,407",Oct 19,-,false
+551,Greenwich Village: Music That Defined a Generation,-,-,-,"$23,701",2,"$23,701",Jan 18,Kino Lorber,false
+552,Dear Mr. Watterson,-,-,-,"$23,619",9,"$23,899",Nov 15,Submarine Deluxe,false
+553,Brave,-,-,-,"$23,525","4,164","$237,283,207",Jun 22,Walt Disney Studios Motion Pictures,false
+554,Tiny Times,-,-,-,"$23,462",3,"$23,462",Jul 26,China Lion Film Distribution,false
+555,Our Children,-,-,-,"$23,203",4,"$23,203",Aug 2,Distrib Films,false
+556,The Last Days on Mars,-,-,-,"$22,566",13,"$24,084",Dec 6,Magnolia Pictures,false
+557,Harry Dean Stanton: Partly Fiction,-,-,-,"$22,367",4,"$23,959",Sep 13,Adopt Films,false
+558,I Used to Be Darker,-,-,-,"$22,214",5,"$22,214",Sep 27,Strand Releasing,false
+559,Murder Eleven,-,-,-,"$22,107",2,"$22,107",Oct 2,Indican Pictures,false
+560,Pieta,-,-,-,"$22,080",12,"$22,080",May 17,Drafthouse Films,false
+561,V/H/S/2,-,-,-,"$21,833",12,"$21,833",Jul 12,Magnolia Pictures,false
+562,The ABCs of Death,-,-,-,"$21,832",19,"$21,832",Mar 8,Magnolia Pictures,false
+563,Blue Exorcist: The Movie,-,-,-,"$21,796",7,"$21,796",Aug 17,Eleven Arts,false
+564,Hitler's Children,-,-,-,"$21,749",3,"$28,663",Nov 16,Film Movement,false
+565,Évocateur: The Morton Downey Jr. Movie,-,-,-,"$21,652",5,"$21,652",Jun 7,Magnolia Pictures,false
+566,Violeta Went to Heaven,-,-,-,"$21,496",3,"$21,496",Mar 29,Kino Lorber,false
+567,Tio Papi,-,-,-,"$21,316",21,"$21,316",Sep 6,Active Fox Productions,false
+568,The Painting,-,-,-,"$21,008",6,"$21,008",May 10,GKIDS,false
+569,Viola,-,-,-,"$20,776",2,"$21,818",Jul 12,The Cinema Guild,false
+570,The Ghosts in Our Machine,-,-,-,"$20,709",2,"$20,709",Nov 8,-,false
+571,Our Nixon,-,-,-,"$20,584",5,"$20,584",Aug 30,Cinedigm Entertainment Group,false
+572,Hunky Dory,-,-,-,"$20,296",11,"$20,296",Mar 22,Variance Films,false
+573,Wedding Palace,-,-,-,"$19,908",6,"$19,908",Sep 27,GoGoGo Entertainment,false
+574,Bad Milo,-,-,-,"$19,613",11,"$19,613",Oct 4,Magnolia Pictures,false
+575,Whensday,-,-,-,"$19,463",2,"$19,463",Aug 9,NoCoast Artists,false
+576,Smash & Grab: The Story of the Pink Panthers,-,-,-,"$18,938",3,"$18,938",Jul 31,Doppelganger Releasing,false
+577,Alex Cross,-,-,-,"$18,924","2,541","$25,888,412",Oct 19,Lionsgate,false
+578,Fire in the Blood,-,-,-,"$18,896",4,"$28,994",Sep 6,International Film Circuit,false
+579,Nostalgia,-,-,-,"$18,846",1,"$18,846",May 31,Kino Lorber,false
+580,"The Sorcerer and the White Snake
+2013 Re-release",-,-,-,"$18,759",4,"$18,759",Feb 8,Magnolia Pictures,false
+581,A Single Shot,-,-,-,"$18,642",10,"$18,642",Sep 20,Tribeca Film,false
+582,Let My People Go!,-,-,-,"$18,529",3,"$18,529",Jan 11,Zeitgeist Films,false
+583,You Ain't Seen Nothin' Yet,-,-,-,"$18,527",3,"$18,929",Jun 7,Kino Lorber,false
+584,Four Bags Full,-,-,-,"$18,297",1,"$18,297",May 24,Rialto Pictures,false
+585,Twice Born,-,-,-,"$18,295",10,"$18,295",Dec 6,Entertainment One,false
+586,Torn,-,-,-,"$18,202",5,"$18,202",Oct 18,Film Collective,false
+587,Casting By,-,-,-,"$18,164",2,"$18,164",Nov 1,Submarine Deluxe,false
+588,Talaash,-,-,-,"$18,055",172,"$2,871,956",Nov 30,Reliance Big Pictures,false
+589,Mental,-,-,-,"$17,669",12,"$17,669",Mar 29,Dada Films,false
+590,The History of Future Folk,-,-,-,"$17,646",2,"$17,646",May 31,Variance Films,false
+591,Jamel Shabazz Street Photographer,-,-,-,"$17,378",2,"$17,992",Aug 2,-,false
+592,Cousin Jules,-,-,-,"$17,190",3,"$29,337",Nov 29,The Cinema Guild,false
+593,Violet & Daisy,-,-,-,"$17,186",17,"$17,186",Jun 7,Cinedigm Entertainment Group,false
+594,Le Pont du Nord,-,-,-,"$17,110",1,"$17,110",Mar 22,The Film Desk,false
+595,Night Across the Street,-,-,-,"$16,778",2,"$16,778",Feb 8,The Cinema Guild,false
+596,Love and Honor,-,-,-,"$16,769",9,"$19,684",Mar 22,IFC Films,false
+597,Dealin' with Idiots,-,-,-,"$16,757",3,"$17,909",Jul 12,IFC Films,false
+598,As I Lay Dying,-,-,-,"$16,697",2,"$16,697",Oct 11,Millennium Entertainment,false
+599,La Camioneta: The Journey of One American School Bus,-,-,-,"$16,686",8,"$18,558",May 31,Follow Your Nose Films,false
+600,The Rabbi's Cat,-,-,-,"$16,412",6,"$23,392",Dec 7,GKIDS,false
+601,The Look of Love,-,-,-,"$16,119",6,"$21,252",Jul 5,IFC Films,false
+602,Out of the Clear Blue Sky,-,-,-,"$16,050",2,"$16,050",Sep 6,Area 23a,false
+603,Detropia,-,-,-,"$15,820",24,"$390,024",Sep 7,Loki Films,false
+604,In Another Country,-,-,-,"$15,502",6,"$25,079",Nov 9,Kino Lorber,false
+605,Masquerade,-,-,-,"$14,983",15,"$922,921",Sep 21,CJ Entertainment,false
+606,I Declare War,-,-,-,"$14,928",14,"$14,928",Aug 30,Drafthouse Films,false
+607,Jayne Mansfield's Car,-,-,-,"$14,836",11,"$14,836",Sep 13,Anchor Bay Films,false
+608,Kiss of the Damned,-,-,-,"$14,752",7,"$14,752",May 3,Magnolia Pictures,false
+609,The Unbelievers,-,-,-,"$14,400",1,"$14,400",Nov 29,-,false
+610,A Wedding Invitation,-,-,-,"$14,350",3,"$14,350",May 24,CJ Entertainment,false
+611,Design is One: Lella & Massimo Vignelli,-,-,-,"$14,078",1,"$16,386",Oct 11,First Run,false
+612,Il Futuro,-,-,-,"$14,001",3,"$14,001",Sep 6,Strand Releasing,false
+613,"The Prey
+2012 Re-release",-,-,-,"$13,959",5,"$13,959",Jun 6,Cohen Media Group,false
+614,Dorfman in Love,-,-,-,"$13,737",9,"$13,737",Mar 22,Brainstorm Media,false
+615,The Monk,-,-,-,"$13,472",11,"$13,472",Mar 8,ATO Pictures,false
+616,Tchoupitoulas,-,-,-,"$13,364",6,"$19,375",Dec 7,Oscilloscope,false
+617,Red Obsession,-,-,-,"$13,199",3,"$13,199",Sep 6,Area 23a,false
+618,The Flat,-,-,-,"$13,087",27,"$471,842",Oct 19,IFC Films,false
+619,A Green Story,-,-,-,"$12,901",4,"$12,901",May 24,Indican Pictures,false
+620,"Breakdance Academy
+2013 Re-release",-,-,-,"$12,708",2,"$12,708",Oct 18,Indican Pictures,false
+621,Django,-,-,-,"$12,436",10,"$25,916",Dec 21,Rialto Pictures,false
+622,Shahid,-,-,-,"$12,153",16,"$12,153",Oct 18,UTV Motion Pictures,false
+623,A Werewolf Boy,-,-,-,"$12,140",20,"$342,922",Nov 30,CJ Entertainment,false
+624,Neighboring Sounds,-,-,-,"$12,037",3,"$60,255",Aug 24,The Cinema Guild,false
+625,In the Fog,-,-,-,"$11,894",3,"$11,894",Jun 14,Strand Releasing,false
+626,Charlie Countryman,-,-,-,"$11,650",15,"$11,650",Nov 15,Millennium Entertainment,false
+627,36 Saints,-,-,-,"$11,640",9,"$11,640",Sep 6,Active Fox Productions,false
+628,Only the Young,-,-,-,"$11,274",2,"$15,312",Dec 7,Oscilloscope,false
+629,My Worst Nightmare,-,-,-,"$11,241",4,"$21,952",Oct 19,Strand Releasing,false
+630,So Young,-,-,-,"$11,186",3,"$11,186",Jun 14,China Lion Film Distribution,false
+631,Looper,-,-,-,"$11,163","2,993","$66,486,205",Sep 28,TriStar Pictures,false
+632,Greetings from Tim Buckley,-,-,-,"$11,157",3,"$11,157",May 3,Tribeca Film,false
+633,A Resurrection,-,-,-,"$10,730",17,"$10,730",Mar 22,-,false
+634,Made in Cleveland,-,-,-,"$10,681",5,"$10,681",Jun 21,Striped Entertainment,false
+635,American Meat,-,-,-,"$10,650",1,"$10,650",Apr 12,-,false
+636,Caucus,-,-,-,"$10,645",2,"$10,645",Oct 25,Bonfire Films of America,false
+637,Midget Zombie Takeover,-,-,-,"$10,604",3,"$11,006",Feb 8,Driving With Our Eyes Shut,false
+638,Evil Intent,-,-,-,"$10,454",2,"$10,454",Jun 29,Driving With Our Eyes Shut,false
+639,Shanghai Calling,-,-,-,"$10,400",4,"$10,400",Feb 15,Starz Digital Media,false
+640,Elemental,-,-,-,"$10,358",3,"$10,358",May 17,The Film Collaborative,false
+641,Port of Shadows,-,-,-,"$10,352",2,"$27,389",Sep 14,Rialto Pictures,false
+642,Liv & Ingmar,-,-,-,"$10,347",2,"$10,347",Dec 13,Janus Films,false
+643,Shepard & Dark,-,-,-,"$10,278",3,"$10,278",Sep 25,Music Box Films,false
+644,Informant,-,-,-,"$10,068",4,"$10,068",Sep 13,Music Box Films,false
+645,Arbitrage,-,-,-,"$9,961",256,"$7,919,574",Sep 14,Roadside Attractions,false
+646,In the Name Of,-,-,-,"$9,883",1,"$9,883",Oct 30,Film Movement,false
+647,Orchestra of Exiles,-,-,-,"$9,867",5,"$34,577",Oct 26,First Run,false
+648,Inch'Allah,-,-,-,"$9,840",2,"$9,840",Aug 16,Entertainment One,false
+649,Birth of the Living Dead,-,-,-,"$9,802",10,"$9,802",Oct 18,First Run,false
+650,Welcome to the Punch,-,-,-,"$9,747",9,"$9,747",Mar 27,IFC Films,false
+651,Antoine & Antoinette,-,-,-,"$9,704",1,"$9,704",Sep 25,Rialto Pictures,false
+652,If I Were You,-,-,-,"$9,432",14,"$9,432",Mar 15,Kino Lorber,false
+653,Zero Charisma,-,-,-,"$9,417",5,"$9,417",Oct 11,Tribeca Film,false
+654,The End of Love,-,-,-,"$9,342",3,"$9,342",Mar 1,Variance Films,false
+655,Looking for Maria Sanchez,-,-,-,"$9,338",2,"$9,338",Jun 14,Vanguardia Films,false
+656,The Invisible War,-,-,-,"$9,319",19,"$71,968",Jun 22,Cinedigm Entertainment Group,false
+657,Better Mus' Come,-,-,-,"$9,318",2,"$9,318",Mar 15,-,false
+658,Starlet,-,-,-,"$9,313",10,"$88,212",Nov 9,Music Box Films,false
+659,Justice Is Mind,-,-,-,"$9,311",1,"$14,360",Aug 18,The Ashton Times,false
+660,11 Flowers,-,-,-,"$9,213",2,"$9,213",Feb 22,First Run,false
+661,Ghost Team One,-,-,-,"$9,195",15,"$9,195",Oct 11,The Film Arcade,false
+662,Call Me Kuchu,-,-,-,"$9,124",1,"$9,124",Jun 14,Cinedigm Entertainment Group,false
+663,Clandestine Childhood,-,-,-,"$9,017",2,"$9,017",Jan 18,IFC Films,false
+664,Big Words,-,-,-,"$8,965",2,"$8,965",Jul 19,-,false
+665,White Elephant,-,-,-,"$8,884",1,"$8,884",Mar 29,Strand Releasing,false
+666,Hell Baby,-,-,-,"$8,785",10,"$8,785",Sep 6,Millennium Entertainment,false
+667,"Wagner & Me
+2012 Re-release",-,-,-,"$8,558",4,"$37,745",Dec 7,First Run,false
+668,The Institute,-,-,-,"$8,445",4,"$8,445",Oct 4,Argot Pictures,false
+669,Hello Herman,-,-,-,"$8,437",15,"$8,437",Jun 7,Freestyle Releasing,false
+670,The Happy Sad,-,-,-,"$8,395",2,"$8,395",Aug 16,-,false
+671,Downloaded,-,-,-,"$8,377",2,"$8,377",Jun 21,Abramorama,false
+672,A Teacher,-,-,-,"$8,348",6,"$8,348",Sep 6,Oscilloscope,false
+673,Aliyah,-,-,-,"$8,253",2,"$8,253",Jun 14,Film Movement,false
+674,La Maison de la radio,-,-,-,"$8,095",1,"$8,095",Sep 4,Kino Lorber,false
+675,Pawn Shop Chronicles,-,-,-,"$8,088",15,"$8,088",Jul 12,Anchor Bay Films,false
+676,Nothing Left to Fear,-,-,-,"$7,886",5,"$7,886",Oct 4,Anchor Bay Films,false
+677,And While We Were Here,-,-,-,"$7,750",19,"$7,750",Sep 13,Well Go USA Entertainment,false
+678,Girls Against Boys,-,-,-,"$7,529",2,"$7,529",Feb 1,Anchor Bay Films,false
+679,Desperate Acts of Magic,-,-,-,"$7,373",2,"$7,373",May 3,Gold Cap Films,false
+680,ParaNorman,-,-,-,"$7,063","3,455","$56,003,051",Aug 17,Focus Features,false
+681,The Brass Teapot,-,-,-,"$6,997",2,"$6,997",Apr 5,Magnolia Pictures,false
+682,"Trouble Every Day
+2013 Re-release",-,-,-,"$6,949",2,"$9,189",Oct 11,The Film Desk,false
+683,Assaulted: Civil Rights Under Fire,-,-,-,"$6,905",17,"$6,905",Jun 20,High Top Releasing,false
+684,Sal,-,-,-,"$6,883",2,"$6,883",Nov 1,Tribeca Film,false
+685,The Human Scale,-,-,-,"$6,878",3,"$6,878",Oct 18,-,false
+686,The Selfish Giant,-,-,-,"$6,831",6,"$12,189",Dec 20,IFC Films,false
+687,Breakfast with Curtis,-,-,-,"$6,629",2,"$6,629",Dec 4,Abramorama,false
+688,Brief Reunion,-,-,-,"$6,601",2,"$6,601",Jan 18,Striped Entertainment,false
+689,Finding Mr. Right,-,-,-,"$6,579",3,"$6,945",Nov 8,China Lion Film Distribution,false
+690,Down the Shore,-,-,-,"$6,558",2,"$6,558",Apr 5,Anchor Bay Films,false
+691,Paradise: Faith,-,-,-,"$6,508",3,"$6,508",Aug 23,Strand Releasing,false
+692,Magnificent Desolation: Walking on the Moon 3D,-,-,-,"$6,434",82,"$34,137,524",Sep 23,IMAX,false
+693,100 Bloody Acres,-,-,-,"$6,388",13,"$6,388",Jun 28,Doppelganger Releasing,false
+694,Inescapable,-,-,-,"$6,334",7,"$6,334",Feb 22,IFC Films,false
+695,Northern Lights,-,-,-,"$6,332",2,"$9,453",Sep 20,-,false
+696,Some Velvet Morning,-,-,-,"$6,257",2,"$6,420",Dec 13,Tribeca Film,false
+697,Max and the Junkmen,-,-,-,"$6,213",2,"$35,387",Aug 10,Rialto Pictures,false
+698,Guitar Innovators: John Fahey & Nels Cline,-,-,-,"$6,132",2,"$6,132",Aug 16,First Run,false
+699,Welcome to Pine Hill,-,-,-,"$6,115",1,"$6,115",Mar 1,Oscilloscope,false
+700,Rangrezz,-,-,-,"$6,108",11,"$6,108",Mar 22,UTV Motion Pictures,false
+701,Nothing But a Man,-,-,-,"$6,012",2,"$13,063",Nov 9,-,false
+702,The Playroom,-,-,-,"$5,964",12,"$5,964",Apr 5,Freestyle Releasing,false
+703,The Worst Movie Ever!,-,-,-,"$5,909",2,"$25,206",Aug 19,Driving With Our Eyes Shut,false
+704,Maidentrip,-,-,-,"$5,872",9,"$68,243",Dec 20,First Run,false
+705,A Bottle in the Gaza Sea,-,-,-,"$5,872",2,"$5,872",Jan 4,Film Movement,false
+706,Five Dances,-,-,-,"$5,788",1,"$5,788",Oct 4,Paladin,false
+707,A Dark Truth,-,-,-,"$5,750",3,"$5,750",Jan 4,Magnolia Pictures,false
+708,Knife Fight,-,-,-,"$5,661",2,"$5,661",Jan 25,IFC Films,false
+709,The Last Time I Saw Macao,-,-,-,"$5,641",1,"$6,095",Sep 13,The Cinema Guild,false
+710,The Guillotines,-,-,-,"$5,290",10,"$5,290",Jun 14,Well Go USA Entertainment,false
+711,The Time Being,-,-,-,"$5,274",2,"$5,274",Jul 26,Tribeca Film,false
+712,Paradise: Hope,-,-,-,"$5,101",3,"$6,701",Dec 6,Strand Releasing,false
+713,Bidder 70,-,-,-,"$5,074",4,"$5,074",May 17,First Run,false
+714,Far from Vietnam,-,-,-,"$5,052",1,"$8,132",Aug 28,Icarus Films,false
+715,Futaba kara tooku hanarete,-,-,-,"$4,960",1,"$4,960",Dec 11,First Run,false
+716,Herman's House,-,-,-,"$4,956",2,"$4,956",Apr 19,First Run,false
+717,The Man Who Shook the Hand of Vicente Fernandez,-,-,-,"$4,953",2,"$10,782",Dec 7,Indican Pictures,false
+718,Supporting Characters,-,-,-,"$4,917",1,"$4,917",Jan 25,Tribeca Film,false
+719,Revelation Road 2: The Sea of Glass and Fire,-,-,-,"$4,871",5,"$4,871",Jul 12,Freestyle Releasing,false
+720,Deadfall,-,-,-,"$4,849",17,"$66,351",Dec 7,Magnolia Pictures,false
+721,Hôtel Normandy,-,-,-,"$4,640",1,"$4,640",Sep 27,Rialto Pictures,false
+722,Dracula 3D,-,-,-,"$4,556",6,"$8,139",Oct 4,IFC Films,false
+723,All Is Bright,-,-,-,"$4,556",10,"$4,556",Oct 4,Anchor Bay Films,false
+724,All Together,-,-,-,"$4,505",10,"$43,180",Oct 19,Kino Lorber,false
+725,People of a Feather,-,-,-,"$4,483",1,"$5,677",Nov 8,First Run,false
+726,Ferlinghetti: A Rebirth of Wonder,-,-,-,"$4,442",2,"$4,816",Feb 8,First Run,false
+727,The Iran Job,-,-,-,"$4,412",2,"$23,115",Sep 28,Film Movement,false
+728,"North Sea Texas
+2012 Re-release",-,-,-,"$4,307",3,"$28,307",Nov 2,Strand Releasing,false
+729,Radio Unnameable,-,-,-,"$4,301",2,"$24,090",Sep 19,Kino Lorber,false
+730,When the Iron Bird Flies: Tibetan Buddhism Arrives in the West,-,-,-,"$4,181",1,"$13,598",Oct 19,-,false
+731,3 Geezers!,-,-,-,"$4,175",15,"$4,175",May 22,-,false
+732,The Revisionaries,-,-,-,"$4,155",5,"$22,664",Oct 5,Kino Lorber,false
+733,Pawn,-,-,-,"$4,141",1,"$4,141",Apr 19,Anchor Bay Films,false
+734,Contracted,-,-,-,"$4,105",3,"$4,105",Nov 22,IFC Films,false
+735,Weekend of a Champion,-,-,-,"$4,100",2,"$4,100",Nov 22,Submarine Deluxe,false
+736,Silver Circle,-,-,-,"$4,080",1,"$4,080",Mar 22,Area 23a,false
+737,The Kitchen,-,-,-,"$4,054",2,"$4,054",Mar 8,Monterey Media,false
+738,Morning,-,-,-,"$4,029",4,"$4,029",Sep 27,Anchor Bay Films,false
+739,"Approved for Adoption
+2013 Re-release",-,-,-,"$4,015",1,"$4,015",Nov 8,GKIDS,false
+740,Entre les Bras,-,-,-,"$3,960",6,"$47,439",Sep 14,The Cinema Guild,false
+741,Three Worlds,-,-,-,"$3,952",1,"$3,952",Jun 21,Film Movement,false
+742,The Well Digger's Daughter,-,-,-,"$3,949",16,"$386,368",Jul 20,Kino Lorber,false
+743,What's in a Name?,-,-,-,"$3,948",12,"$8,111",Dec 13,Under The Milky Way,false
+744,Back to 1942,-,-,-,"$3,849",20,"$312,954",Nov 30,China Lion Film Distribution,false
+745,"High Tech, Low Life",-,-,-,"$3,836",1,"$3,836",Jan 9,Argot Pictures,false
+746,The Condemned,-,-,-,"$3,718",1,"$3,718",Mar 1,Strand Releasing,false
+747,"Mr. Nobody
+2013 Re-release",-,-,-,"$3,622",4,"$3,622",Nov 1,Magnolia Pictures,false
+748,Tricked,-,-,-,"$3,533",1,"$3,533",Dec 13,Kino Lorber,false
+749,The Stroller Strategy,-,-,-,"$3,462",1,"$3,462",Jun 14,Rialto Pictures,false
+750,The Happy Poet,-,-,-,"$3,400",1,"$3,400",Mar 22,Cinema Libre Studio,false
+751,Swerve,-,-,-,"$3,338",5,"$3,338",Dec 6,Cohen Media Group,false
+752,Axe Giant: The Wrath of Paul Bunyan,-,-,-,"$3,287",3,"$3,287",May 31,Cinema Purgatorio,false
+753,Plush,-,-,-,"$3,080",10,"$3,080",Sep 13,-,false
+754,Drew: The Man Behind the Poster,-,-,-,"$3,078",1,"$3,078",Aug 14,Kino Lorber,false
+755,A Girl and a Gun,-,-,-,"$3,018",10,"$3,018",Jul 3,First Run,false
+756,Approaching Midnight,-,-,-,"$2,911",6,"$2,795",Aug 30,Monterey Media,false
+757,Le Amiche,-,-,-,"$2,806",1,"$68,167",Jun 18,The Film Desk,false
+758,The End of Time,-,-,-,"$2,764",1,"$4,375",Nov 29,First Run,false
+759,What Richard Did,-,-,-,"$2,749",1,"$2,749",May 10,Tribeca Film,false
+760,Here Comes the Devil,-,-,-,"$2,704",2,"$4,534",Dec 13,Magnolia Pictures,false
+761,Come Out and Play,-,-,-,"$2,638",10,"$2,638",Mar 22,Cinedigm Entertainment Group,false
+762,Sparrows Dance,-,-,-,"$2,602",1,"$2,602",Aug 23,Tribeca Film,false
+763,Last Flight of the Champion,-,-,-,"$2,597",15,"$2,597",Aug 30,High Top Releasing,false
+764,Cassadaga,-,-,-,"$2,544",3,"$2,544",Oct 11,-,false
+765,Almost in Love,-,-,-,"$2,510",1,"$2,510",Feb 15,Argot Pictures,false
+766,The Last Day of August,-,-,-,"$2,492",1,"$2,492",Oct 4,Striped Entertainment,false
+767,Men at Lunch,-,-,-,"$2,483",1,"$2,483",Sep 20,First Run,false
+768,California Solo,-,-,-,"$2,481",2,"$15,433",Nov 30,Strand Releasing,false
+769,The Law in These Parts,-,-,-,"$2,456",1,"$13,683",Nov 16,The Cinema Guild,false
+770,Lotus Eaters,-,-,-,"$2,325",1,"$2,325",Apr 5,-,false
+771,The Ghastly Love of Johnny X,-,-,-,"$2,319",2,"$2,436",Oct 26,Strand Releasing,false
+772,The Happy House,-,-,-,"$2,311",1,"$2,311",May 3,First Run,false
+773,InSpectres,-,-,-,"$2,207",1,"$2,207",Sep 5,Reactor 88 Studios,false
+774,Smashed,-,-,-,"$2,107",50,"$376,597",Oct 12,Sony Pictures Classics,false
+775,Red Flag,-,-,-,"$2,075",1,"$2,075",Feb 22,Tribeca Film,false
+776,Rubberneck,-,-,-,"$2,075",1,"$2,075",Feb 22,Tribeca Film,false
+777,"The Polar Express
+2012 IMAX Release",-,-,-,"$1,947",17,"$669,289",Nov 21,Warner Bros.,false
+778,Best Man Down,-,-,-,"$1,938",2,"$1,938",Nov 8,Magnolia Pictures,false
+779,Detention of the Dead,-,-,-,"$1,777",2,"$1,777",Jun 28,Anchor Bay Films,false
+780,You Don't Need Feet to Dance,-,-,-,"$1,719",1,"$1,719",Mar 22,First Run,false
+781,Eddie: The Sleepwalking Cannibal,-,-,-,"$1,632",5,"$1,632",Apr 5,Doppelganger Releasing,false
+782,"Now, Forager",-,-,-,"$1,609",4,"$11,146",Oct 3,Argot Pictures,false
+783,The Fitzgerald Family Christmas,-,-,-,"$1,587",21,"$50,292",Dec 7,Tribeca Film,false
+784,The Package,-,-,-,"$1,469",1,"$1,469",Feb 15,Anchor Bay Films,false
+785,Officer Down,-,-,-,"$1,463",1,"$1,463",Jan 18,Anchor Bay Films,false
+786,This Is Not a Film,-,-,-,"$1,450",5,"$77,016",Feb 29,Palisades Tartan,false
+787,Small Change,-,-,-,"$1,366",2,"$38,296",Nov 24,The Film Desk,false
+788,"A Man Vanishes
+2012 Re-release",-,-,-,"$1,338",2,"$6,201",Nov 15,Icarus Films,false
+789,The Man in the White Suit,-,-,-,"$1,314",1,"$8,718",Nov 16,Rialto Pictures,false
+790,We Won't Grow Old Together,-,-,-,"$1,303",1,"$14,104",Jun 8,The Film Desk,false
+791,Meet the Fokkens,-,-,-,"$1,285",1,"$30,810",Aug 8,Kino Lorber,false
+792,The Bride Wore Black,-,-,-,"$1,190",2,"$44,566",Nov 4,The Film Desk,false
+793,"The Devil, Probably",-,-,-,"$1,177",2,"$26,816",Jan 13,The Film Desk,false
+794,Sushi: The Global Catch,-,-,-,"$1,174",1,"$5,757",Aug 3,-,false
+795,Monsieur Verdoux,-,-,-,"$1,171",2,"$64,636",Mar 14,The Film Desk,false
+796,A Zombie Invasion,-,-,-,"$1,170",1,"$1,170",Dec 12,-,false
+797,"Summer
+2011 Re-release",-,-,-,"$1,132",2,"$43,839",Jun 9,The Film Desk,false
+798,Veer!,-,-,-,"$1,132",1,"$1,132",Mar 1,-,false
+799,Caught in the Web,-,-,-,"$1,067",2,"$1,067",Nov 27,Vitagraph Films,false
+800,Khumba,-,-,-,"$1,029",2,"$1,029",Dec 6,Millennium Entertainment,false
+801,Remnants,-,-,-,"$1,022",1,"$1,022",Nov 14,-,false
+802,Putin's Kiss,-,-,-,$968,1,"$10,082",Feb 17,Kino Lorber,false
+803,Billy and Buddy,-,-,-,$894,2,$894,Nov 8,Distrib Films,false
+804,I Spit on Your Grave 2,-,-,-,$809,1,$809,Sep 20,Anchor Bay Films,false
+805,Breathing,-,-,-,$779,2,"$4,630",Aug 31,Kino Lorber,false
+806,Kumaré,-,-,-,$743,9,"$132,160",Jun 20,Kino Lorber,false
+807,"Into the White
+2013 Re-release",-,-,-,$704,1,$704,Apr 12,Magnolia Pictures,false
+808,Syrup,-,-,-,$663,1,$663,Jun 7,Magnolia Pictures,false
+809,Alpeis,-,-,-,$653,3,"$16,057",Jul 13,Kino Lorber,false
+810,Hammer of the Gods,-,-,-,$641,2,$641,Jul 5,Magnolia Pictures,false
+811,The Day He Arrives,-,-,-,$634,2,"$13,746",Apr 20,The Cinema Guild,false
+812,Le combat dans l'île,-,-,-,$581,1,"$50,039",Jun 12,The Film Desk,false
+813,"The Trouble with Terkel
+2010 Re-release",-,-,-,$500,4,"$40,385",Oct 15,Indican Pictures,false
+814,Triumph of the Wall,-,-,-,$476,1,$476,May 31,First Run,false
+815,A Perfect Man,-,-,-,$445,2,"$7,117",Nov 1,IFC Films,false
+816,The Long Day Closes,-,-,-,$399,2,"$22,765",Mar 5,The Film Desk,false
+817,Citadel,-,-,-,$382,7,"$13,377",Nov 9,Cinedigm Entertainment Group,false
+818,Planet of Snail,-,-,-,$344,2,"$13,957",Jul 25,The Cinema Guild,false
+819,The Turin Horse,-,-,-,$294,3,"$56,391",Feb 10,The Cinema Guild,false
+820,The Comedy,-,-,-,$273,4,"$41,113",Nov 9,Tribeca Film,false
+821,Metal Messiah,-,-,-,$211,1,"$3,476",Sep 16,-,false
+822,Jason Becker: Not Dead Yet,-,-,-,$200,2,"$1,294",Dec 12,Kino Lorber,false
+823,Yangsi,-,-,-,$138,1,"$4,008",Dec 7,Kino Lorber,false
+824,Free Radicals: A History of Experimental Film,-,-,-,$115,1,"$3,804",Aug 3,Kino Lorber,false
+825,Storage 24,-,-,-,$72,1,$72,Jan 18,Magnolia Pictures,false
+826,To Die Is Hard,-,-,-,$56,1,"$5,129",Dec 17,Driving With Our Eyes Shut,false
