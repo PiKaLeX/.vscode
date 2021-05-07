@@ -8,6 +8,7 @@ requests = "*"
 pandas = "*"
 requests-html = "*"
 grequests = "*"
+pypdf2 = "*"
 
 [dev-packages]
 
